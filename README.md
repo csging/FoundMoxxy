@@ -1,0 +1,2 @@
+# FoundMoxxy
+I bought a light-up QR code pet tag that when scanned doesnt work. I want to use a writeable NFC tag an glue it on her light-up tag so that I can essentially do the same thing the QR code was supposed to do. Im making a website with her information and how to contact me as an MVP. Future updates would include a geolocation button and call me button so I don't have to put my phone number right on the page
